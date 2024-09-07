@@ -1,3 +1,9 @@
+/**
+ * Name: NQueenProblem.java
+ * Author: Zaenal Alfian
+ * Date: 08 Sept 2024
+ * Description: This program contains solution for N-Queen Problem using backtracking algorithm.
+ */
 public class NQueenProblem {
   private static int N;
 
